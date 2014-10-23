@@ -1,7 +1,9 @@
-hello-world
+Hello World
 ===========
 
-This repository will contain a test of **GitHub**. 
+## Basic Tutorial by Github
+
+This repository will contain a test of **GitHub** 
 
 [@ricardosampayo_][1]
 [ricardosampayo.com][2]
